@@ -1,6 +1,6 @@
 # Hi, ich bin Denis 👋
 
-💻 software fulsstack architect 
+💻 software fullstack architect 
 ⚡ Tech Stack: Angulöar, Flutter, TypeScript, React, Node.js , C++
 🚀 Aktuell arbeite ich an: ZenPost Engine c++
 
