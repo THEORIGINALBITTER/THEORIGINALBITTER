@@ -19,15 +19,15 @@ Passion für moderne Fullstack-Entwicklung mit **React, Angular, Node.js, C++, R
 ### 🚀 Aktuelle Projekte
 
 #### ZenPost Engine C++
-![ZenPost Demo](https://raw.githubusercontent.com/THEORIGINALBITTER/zenpost-studio/main/demo.gif)  
+![ZenPost Demo](https://raw.githubusercontent.com/THEORIGINALBITTER/zenpost-studio/main/zenpostStudio_c1.gif)  
 Ein modernes Fullstack-Projekt mit **C++ Backend**, **Node.js APIs** und Frontend in **React/Angular**.  
 🔗 [Repo & Details](https://github.com/THEORIGINALBITTER/zenpost-studio/blob/main/README.md)
 
 #### Weitere Projekte
-- **Projekt 2** – Kurze Beschreibung + Link  
-- **Projekt 3** – Kurze Beschreibung + Link  
 
-> Tipp: GIFs wirken sehr professionell, wenn du die wichtigsten Features kurz zeigst.
+- **ZenOrbit** – React Tauri Projekt Extension + [Link  ](https://zenorbit.denisbitter.de/builder)
+
+
 
 ---
 
