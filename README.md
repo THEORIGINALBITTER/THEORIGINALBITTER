@@ -1,7 +1,8 @@
 # Hi, ich bin Denis 👋
 
 💻 software fullstack architect 
-⚡ Tech Stack: Angulöar, Flutter, TypeScript, React, Node.js , C++
+![React](https://img.shields.io/badge/React-20232A?logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript)
 🚀 Aktuell arbeite ich an: ZenPost Engine c++
 
 📫 Kontakt: saghallo@denisbitter.de 
