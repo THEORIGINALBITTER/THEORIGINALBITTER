@@ -6,3 +6,6 @@
 
 📫 Kontakt: saghallo@denisbitter.de 
 🌐 Portfolio: https://THEORIGINALBITTER.github.io
+
+
+![Denis`s GitHub stats](https://github-readme-stats.vercel.app/api?username=THEORIGINALBITTER&show_icons=true&theme=radical)
