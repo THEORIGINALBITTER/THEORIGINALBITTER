@@ -1,6 +1,6 @@
 # Hi, ich bin Denis デニス
 
-💻 **Software Fullstack Architect**  
+**Software Fullstack Architect**  
 Passion für moderne Fullstack-Entwicklung mit **React, Angular, Node.js, C++, Rust und Flutter**.
 
 ---
@@ -21,7 +21,7 @@ Passion für moderne Fullstack-Entwicklung mit **React, Angular, Node.js, C++, R
 #### ZenPost Engine C++
 ![ZenPost Demo](https://raw.githubusercontent.com/THEORIGINALBITTER/zenpost-studio/main/zenpostStudio_c1.gif)  
 Ein modernes Fullstack-Projekt mit **C++ Backend**, **Node.js APIs** und Frontend in **React/Angular**.  
-🔗 [Repo & Details](https://github.com/THEORIGINALBITTER/zenpost-studio/blob/main/README.md)
+[Repo & Details](https://github.com/THEORIGINALBITTER/zenpost-studio/blob/main/README.md)
 
 #### Weitere Projekte
 
@@ -37,7 +37,7 @@ Ein modernes Fullstack-Projekt mit **C++ Backend**, **Node.js APIs** und Fronten
 
 ---
 
-### 📫 Kontakt & Portfolio
+### 連 Kontakt & Portfolio
 - E-Mail: **saghallo@denisbitter.de**  
 - Portfolio: [THEORIGINALBITTER.github.io](https://THEORIGINALBITTER.github.io)
 
