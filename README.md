@@ -5,7 +5,7 @@ Passion für moderne Fullstack-Entwicklung mit **React, Angular, Node.js, C++, R
 
 ---
 
-### ⚡ Tech Stack
+### テ Tech Stack
 ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
@@ -16,7 +16,7 @@ Passion für moderne Fullstack-Entwicklung mit **React, Angular, Node.js, C++, R
 
 ---
 
-### 🚀 Aktuelle Projekte
+### ピー Aktuelle Projekte
 
 #### ZenPost Engine C++
 ![ZenPost Demo](https://raw.githubusercontent.com/THEORIGINALBITTER/zenpost-studio/main/zenpostStudio_c1.gif)  
@@ -31,7 +31,7 @@ Ein modernes Fullstack-Projekt mit **C++ Backend**, **Node.js APIs** und Fronten
 
 ---
 
-### 📊 GitHub Stats & Top Languages
+### ギ GitHub Stats & Top Languages
 ![Denis`s GitHub stats](https://github-readme-stats.vercel.app/api?username=THEORIGINALBITTER&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=THEORIGINALBITTER&layout=compact&theme=radical)
 
