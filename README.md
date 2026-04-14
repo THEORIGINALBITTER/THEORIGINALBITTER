@@ -2,6 +2,7 @@
 
 **Software Fullstack Architect**  
 Passion für moderne Fullstack-Entwicklung mit **React, Angular, Node.js, C++, Rust und Flutter**.
+Design + Code | Fullstack Entwickler + Dozent
 
 ---
 
